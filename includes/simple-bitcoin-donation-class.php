@@ -49,7 +49,7 @@
 		public function form( $instance ) {
 			// Variables
 			$title = ! empty( $instance['title'] ) ? $instance['title'] : esc_html__( 'Enter Header Title', 'sbd_domain' );
-			$link = ! empty( $instance['link'] ) ? $instance['link'] : esc_html__( 'Enter the Bitcion Link', 'sbd_domain' );
+			$link = ! empty( $instance['link'] ) ? $instance['link'] : esc_html__( 'Enter the Bitcoin Link', 'sbd_domain' );
 			$subtitle = ! empty( $instance['subtitle'] ) ? $instance['subtitle'] : esc_html__( 'Enter Subtitle', 'sbd_domain' );
 			?>
 
