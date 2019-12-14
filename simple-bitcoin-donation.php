@@ -3,7 +3,7 @@
     Plugin Name: Simple Bitcoin Donation Widget
     Plugin URI: http://santech.ph
     Description: Display donation image and text for bitcoin donations
-    Version: 1.0.11
+    Version: 1.0.12
     Author: Mr. Smith
     Author URI: http://santach.ph
     */
